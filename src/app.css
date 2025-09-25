@@ -1,3 +1,20 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+@plugin "daisyui";
+
+@font-face {
+    font-family: 'Ka1';
+    src: url("../src/lib/assets/fonts/ka1.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Munro';
+    src: url("../src/lib/assets/fonts/munro.ttf") format("truetype");
+}
+
+@layer base {
+    body {
+        font-family: 'Munro', sans-serif;
+    }
+}
