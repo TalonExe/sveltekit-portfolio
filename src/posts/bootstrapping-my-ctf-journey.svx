@@ -1,0 +1,27 @@
+---
+title: "Bootstrapping My CTF Journey"
+date: "2024-10-12"
+description: "The habits, tooling, and mindset I rely on before every jeopardy-style event."
+tags: ['ctf', 'mindset']
+minutesToRead: 6
+---
+
+Welcome to the lab notes corner of my portfolio. I wanted the first post to set the expectation for what you can find here: practical takeaways from a cybersecurity student who spends most nights buried in reverse shells and binary puzzles.
+
+## My tooling checklist
+
+- `tmux` session with pre-split panes for enumeration, notes, and shells  
+- `rustscan` → `nmap` for faster recon pass  
+- Password-store snippets for common payloads (SQLi, LDAP, SSTI)  
+- A scratchpad Obsidian vault that syncs to Git for versioned note taking
+
+Keeping this checklist visible prevents me from skipping foundational steps when the clock is ticking.
+
+## Fast feedback loops
+
+A trick I learned from competitive programming: **optimize for iteration speed**. For CTFs that means scripting everything—whether it is a quick Python wrapper for pwntools or a set of reusable Burp macros. The less time I spend retyping the same commands, the more brain-space I have for creative exploitation.
+
+## What to expect next
+
+Future posts will include detailed walkthroughs, methodology breakdowns, and the occasional defensive perspective when I pivot into blue-team tooling. If there is a challenge or track you want me to cover, let me know!
+
