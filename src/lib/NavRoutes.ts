@@ -8,7 +8,7 @@ const routes = [
 		name: 'About'
 	},
 	{
-		href: '/projects',
+		href: '#projects',
 		name: 'Projects'
 	},
 	{
