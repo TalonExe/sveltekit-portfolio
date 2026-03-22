@@ -17,9 +17,10 @@
 			tags: ['Python', 'Google Cloud API', 'SQLite3']
 		},
 		{
-			title: 'Pixel Reef Portfolio',
-			description: 'Animated reef-scape UI with a crisp, readable layout and fast loads.',
-			tags: ['SvelteKit', 'UI', 'Design']
+			title: 'Automated Penetration test Report generator',
+			description:
+				'An app designed to streamline Penetration test reporting processes in the most seamless and hands-off way possible.',
+			tags: ['Python']
 		}
 	];
 </script>

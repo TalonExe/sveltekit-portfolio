@@ -23,14 +23,13 @@
 		content="CTF walkthroughs, penetration testing methodology, and learning notes."
 	/>
 </svelte:head>
-
 <section class="blog">
 	<header>
 		<p class="eyebrow">Lab Notes</p>
 		<h1>Thoughts from the field</h1>
 		<p>
-			I write about CTF tactics, penetration testing methodology, and what I am learning
-			as a cybersecurity student. Every post is written in mdsvex—drop a new <code>.svx</code>
+			I write about CTF tactics, penetration testing methodology, and what I am learning as a
+			cybersecurity student. Every post is written in mdsvex—drop a new <code>.svx</code>
 			file into <code>src/posts</code> and it will show up here automatically.
 		</p>
 	</header>
@@ -105,7 +104,9 @@
 		border: 1px solid rgba(255, 255, 255, 0.1);
 		border-radius: 1rem;
 		padding: 1.5rem;
-		transition: border-color 0.2s ease, transform 0.2s ease;
+		transition:
+			border-color 0.2s ease,
+			transform 0.2s ease;
 		background: rgba(8, 8, 8, 0.4);
 	}
 
@@ -151,4 +152,3 @@
 		letter-spacing: 0.05em;
 	}
 </style>
-

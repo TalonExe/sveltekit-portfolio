@@ -12,7 +12,7 @@ const config = {
 			"$static": "/static" 
 		}
 	 },
-	extensions: ['.svelte', '.svx']
+	extensions: ['.svelte', '.svx'],
 };
 
 export default config;

@@ -28,7 +28,7 @@
 				</span>
 			{/if}
 		</div>
-		<p class="mt-3 font-[Helvetica] text-sm leading-relaxed opacity-80">{description}</p>
+		<p class="mt-3 text-sm leading-relaxed opacity-80">{description}</p>
 	</div>
 
 	<div class="mt-5 flex flex-wrap gap-2">
