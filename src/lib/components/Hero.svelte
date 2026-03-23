@@ -56,7 +56,7 @@
 						<span class="text-red-400">complete and professional solutions</span>
 						that can solve problems and save costs.
 						<a
-							href="/resume.pdf"
+							href="https://drive.google.com/file/d/1GCzwG_pgU68zZ3jpfIsc_DmJDzvT7OxZ/view?usp=sharing"
 							target="_blank"
 							rel="noopener noreferrer"
 							class="resume-link inline-flex items-center gap-1.5 self-start"

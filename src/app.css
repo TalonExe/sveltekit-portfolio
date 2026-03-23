@@ -23,7 +23,7 @@
 
 .reef {
     position: relative;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.45), rgba(0, 25, 35, 0.55));
+    background: #000d0c;
 }
 
 /* Soft “bubbles” over the section */
