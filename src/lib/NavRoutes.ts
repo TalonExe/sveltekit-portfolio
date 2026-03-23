@@ -4,7 +4,7 @@ const routes = [
 		name: 'Home'
 	},
 	{
-		href: '#projects',
+		href: '/#projects',
 		name: 'Projects'
 	},
 	{
