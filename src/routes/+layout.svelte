@@ -4,6 +4,7 @@
 	import MouseCursor from '$lib/components/MouseCursor.svelte';
 
 	let { children } = $props();
+	let open = $state();
 </script>
 
 <svelte:head>
@@ -11,6 +12,6 @@
 </svelte:head>
 
 <MouseCursor />
-<NavBar />
+<NavBar bind:open />
 
 {@render children?.()}
